@@ -40,7 +40,7 @@ function threeSum(arr, tar) {
             
 
         }
-        return d;
+        console.log(d) ;
   
 }
 
